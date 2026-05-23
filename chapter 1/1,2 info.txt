@@ -1,0 +1,4 @@
+here in terminal we can calculation stuff plus some printing 
+here python uses REPL(read evaluate print loop(like start again)
+so open your terminal after writing python you can implement python
+commands here  
